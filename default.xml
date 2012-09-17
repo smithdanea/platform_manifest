@@ -13,7 +13,7 @@
 	   review="review.cyanogenmod.com" />
 
    <remote name="smithdanea"
-	   fetch="https://github.com/smithdanea" />
+	   fetch="https://github.com/smithdanea/" />
 
   <default remote="aosp"
            sync-j="4" />
